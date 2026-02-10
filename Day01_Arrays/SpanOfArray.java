@@ -1,8 +1,8 @@
 import java.io.*;
-//import java.until.*;
+import java.util.*;
 public class SpanOfArray{
     public static void main(String[] args){
-        Scanner scn = new scanner(System.in);
+        Scanner scn = new Scanner(System.in);
         int n = scn.nextInt();
         int[] arr = new int[n];
 
