@@ -5,6 +5,8 @@ public class Interning {
         // x = "mello";
         // System.out.println(x);
         s = s.substring(0,2) + 'y' + s.substring(3);
-        System.out.println(s); 
+        System.out.println(s);
+
     }
+
 }
