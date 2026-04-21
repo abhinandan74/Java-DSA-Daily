@@ -1,6 +1,6 @@
 # 📘 Daily DSA Practice
 
-Welcome to my **Daily Data Structures & Algorithms (DSA) Practice Repository** 🚀
+Welcome to my **Daily Data Structures & Algorithms (DSA) Practice Repository** 🚀 
 
 I solve problems regularly to improve my problem-solving skills, coding efficiency, and understanding of algorithms.
 
